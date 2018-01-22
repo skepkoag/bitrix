@@ -1,0 +1,8 @@
+
+.idea/
+bitrix/managed_cache
+bitrix/cache
+upload/
+
+*.tar.gz
+*.sql
